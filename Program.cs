@@ -1,4 +1,4 @@
-﻿string[] arrayOfStrings = new string[]  {};
+﻿string[] arrayOfStrings = new string[]   {};
 
 int n = InputNumbers("Введите количество элементов массива: ");
 arrayOfStrings = new string[n];
